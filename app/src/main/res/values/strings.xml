@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test_nhanh_01</string>
+
+        <string name="hint_kg">Enter weight in kg</string>
+        <string name="button_convert">Convert kilos to pounds</string>
+        <string name="result_default_text">Result will be displayed here</string>
+</resources>
